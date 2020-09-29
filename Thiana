@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" group-title="Canais | Variedades",Multishow FHD 
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://s.eyplay.io/logos/canais/multishow.png" group-title="Favoritos | Thiana",Multishow FHD 
 http://esrv.cc:80/GbN1tp/Xt055r/31916
-#EXTINF:-1 tvg-id="MTV" tvg-logo="http://s.eyplay.io/logos/canais/mtv.png" group-title="Canais | Variedades",MTV FHD 
+#EXTINF:-1 tvg-id="MTV" tvg-logo="http://s.eyplay.io/logos/canais/mtv.png" group-title="Favoritos | Thiana",MTV FHD 
 http://esrv.cc:80/GbN1tp/Xt055r/31908
-#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://s.eyplay.io/logos/canais/foodnetwork.png" group-title="Canais | Variedades",Food Network FHD 
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="http://s.eyplay.io/logos/canais/foodnetwork.png" group-title="Favoritos | Thiana",Food Network FHD 
 http://esrv.cc:80/GbN1tp/Xt055r/31889
-#EXTINF:-1 tvg-id="Discovery Home  e  Health" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",Discovery Home & Health FHD
+#EXTINF:-1 tvg-id="Discovery Home  e  Health" tvg-logo="http://s.eyplay.io/logos/canais/discoveryh%26h.png" group-title="Favoritos | Thiana",Discovery Home & Health FHD
 http://esrv.cc:80/GbN1tp/Xt055r/31475
-#EXTINF:-1 tvg-logo="http://iv.pe/Gxs" group-title="Canais | Globo",Globo TV Sergipe FHD
+#EXTINF:-1 tvg-logo="http://iv.pe/Gxs" group-title="Favoritos | Thiana",Globo TV Sergipe FHD
 http://esrv.cc:80/GbN1tp/Xt055r/31652
 #EXTINF:-1 tvg-logo="http://eyplay.io:80/images/4447e7031dbf1b485e1be3a4e1f06aa9.png" group-title="Canais | Adultos",A Casa Das Brasileirinhas - Pack 1
 http://esrv.cc:80/GbN1tp/Xt055r/31437
