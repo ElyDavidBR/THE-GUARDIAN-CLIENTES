@@ -39,11 +39,11 @@ http://list.deeplist.nl:80/jo11239/1619948657/68282
 http://list.deeplist.nl:80/jo11239/1619948657/52581
 #EXTINF:-1 tvg-logo="https://url.gratis/PBJzb" group-title="Canais | Documentários",Animal Planet [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/1719
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Channel [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/FKiiz" group-title="Canais | Documentários",Discovery Channel [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/52605
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Channel [HD]
+#EXTINF:-1 tvg-logo="https://url.gratis/FKiiz" group-title="Canais | Documentários",Discovery Channel [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/2410
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Channel [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/FKiiz" group-title="Canais | Documentários",Discovery Channel [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/1084
 #EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Science [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/52653
@@ -51,53 +51,261 @@ http://list.deeplist.nl:80/jo11239/1619948657/52653
 http://list.deeplist.nl:80/jo11239/1619948657/16006
 #EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Science [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/20806
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Theater [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/mGMRD" group-title="Canais | Documentários",Discovery Theater [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/52610
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Theater [HD]
+#EXTINF:-1 tvg-logo="https://url.gratis/mGMRD" group-title="Canais | Documentários",Discovery Theater [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/2460
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Theater [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/mGMRD" group-title="Canais | Documentários",Discovery Theater [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/20807
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Turbo [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/drDsY" group-title="Canais | Documentários",Discovery Turbo [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/58689
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Turbo [HD]
+#EXTINF:-1 tvg-logo="https://url.gratis/drDsY" group-title="Canais | Documentários",Discovery Turbo [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/2411
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery Turbo [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/drDsY" group-title="Canais | Documentários",Discovery Turbo [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/1072
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery World [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/nkW93" group-title="Canais | Documentários",Discovery World [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/58690
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery World HD
+#EXTINF:-1 tvg-logo="https://url.gratis/nkW93" group-title="Canais | Documentários",Discovery World [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/2461
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Discovery World [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/nkW93" group-title="Canais | Documentários",Discovery World [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/20808
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 1 [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/ifrqh" group-title="Canais | Documentários",History Channel 1 [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/68315
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 1 [HD]
+#EXTINF:-1 tvg-logo="https://url.gratis/ifrqh" group-title="Canais | Documentários",History Channel 1 [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/2468
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 1 [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/ifrqh" group-title="Canais | Documentários",History Channel 1 [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/923
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 2 [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/UQjCj" group-title="Canais | Documentários",History Channel 2 [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/52629
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 2 [HD]
+#EXTINF:-1 tvg-logo="https://url.gratis/UQjCj" group-title="Canais | Documentários",History Channel 2 [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/1021
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",History Channel 2 [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/UQjCj" group-title="Canais | Documentários",History Channel 2 [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/2486
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Investigação Discovery [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/EeuVj" group-title="Canais | Documentários",Investigação Discovery [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/68301
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Investigação Discovery [HD]
+#EXTINF:-1 tvg-logo="https://url.gratis/EeuVj" group-title="Canais | Documentários",Investigação Discovery [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/2469
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Investigação Discovery [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/EeuVj" group-title="Canais | Documentários",Investigação Discovery [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/1011
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Natgeo Wild [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/FVCKW" group-title="Canais | Documentários",Natgeo Wild [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/52669
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Natgeo Wild [HD]
+#EXTINF:-1 tvg-logo="https://url.gratis/FVCKW" group-title="Canais | Documentários",Natgeo Wild [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/994
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",Natgeo Wild [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/FVCKW" group-title="Canais | Documentários",Natgeo Wild [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/995
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",National Geographics [FHD]
+#EXTINF:-1 tvg-logo="https://url.gratis/8YepV" group-title="Canais | Documentários",National Geographics [FHD]
 http://list.deeplist.nl:80/jo11239/1619948657/68305
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",National Geographics [HD]
+#EXTINF:-1 tvg-logo="https://url.gratis/8YepV" group-title="Canais | Documentários",National Geographics [HD]
 http://list.deeplist.nl:80/jo11239/1619948657/52586
-#EXTINF:-1 tvg-logo="" group-title="Canais | Documentários",National Geographics [SD]
+#EXTINF:-1 tvg-logo="https://url.gratis/8YepV" group-title="Canais | Documentários",National Geographics [SD]
 http://list.deeplist.nl:80/jo11239/1619948657/991
-#EXTINF:-1 tvg-logo="" group-title="Canais | Adultos",PLAYBOY TV FULL HD
-http://list.deeplist.nl:80/jo11239/1619948657/20820
+#EXTINF:-1 tvg-logo="https://url.gratis/3G34P" group-title="Canais | Esportes",Band Sports [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52609
+#EXTINF:-1 tvg-logo="https://url.gratis/3G34P" group-title="Canais | Esportes",Band Sports [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/2407
+#EXTINF:-1 tvg-logo="https://url.gratis/3G34P" group-title="Canais | Esportes",Band Sports [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/1106
+#EXTINF:-1 tvg-logo="https://url.gratis/YVZz3" group-title="Canais | Esportes",Cariocão [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75085
+#EXTINF:-1 tvg-logo="https://url.gratis/YVZz3" group-title="Canais | Esportes",Cariocão 2 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75088
+#EXTINF:-1 tvg-logo="https://url.gratis/YVZz3" group-title="Canais | Esportes",Cariocão 2 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75087
+#EXTINF:-1 tvg-logo="https://url.gratis/XaxaE" group-title="Canais | Esportes",Combate [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52650
+#EXTINF:-1 tvg-logo="https://url.gratis/XaxaE" group-title="Canais | Esportes",Combate [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1088
+#EXTINF:-1 tvg-logo="https://url.gratis/XaxaE" group-title="Canais | Esportes",Combate [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/22442
+#EXTINF:-1 tvg-logo="https://url.gratis/6cyCJ" group-title="Canais | Esportes",Conmebol 1 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/73394
+#EXTINF:-1 tvg-logo="https://url.gratis/6cyCJ" group-title="Canais | Esportes",Conmebol 1 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/72741
+#EXTINF:-1 tvg-logo="https://url.gratis/6cyCJ" group-title="Canais | Esportes",Conmebol 2 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/73395
+#EXTINF:-1 tvg-logo="https://url.gratis/6cyCJ" group-title="Canais | Esportes",Conmebol 2 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/72742
+#EXTINF:-1 tvg-logo="https://url.gratis/6cyCJ" group-title="Canais | Esportes",Conmebol 3 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/72745
+#EXTINF:-1 tvg-logo="https://url.gratis/6cyCJ" group-title="Canais | Esportes",Conmebol 3 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/74426
+#EXTINF:-1 tvg-logo="https://url.gratis/6cyCJ" group-title="Canais | Esportes",Conmebol 4 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/72746
+#EXTINF:-1 tvg-logo="https://url.gratis/fa0B4" group-title="Canais | Esportes",Copa Catarinense [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75084
+#EXTINF:-1 tvg-logo="https://url.gratis/fa0B4" group-title="Canais | Esportes",Copa Catarinense [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75083
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 1 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75048
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 1 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75047
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 2 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75050
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 2 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75049
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 3 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75396
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 3 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75395
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 4 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75403
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 4 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75397
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 5 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75399
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 5 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75400
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 6 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75401
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 6 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75402
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 7 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75405
+#EXTINF:-1 tvg-logo="https://url.gratis/IAejw" group-title="Canais | Esportes",Copa do Nordeste 7 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/75404
+#EXTINF:-1 tvg-logo="https://url.gratis/cLy90" group-title="Canais | Esportes",DAZN [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/73571
+#EXTINF:-1 tvg-logo="https://url.gratis/cLy90" group-title="Canais | Esportes",DAZN [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/73570
+#EXTINF:-1 tvg-logo="https://url.gratis/cLy90" group-title="Canais | Esportes",DAZN 2
+http://list.deeplist.nl:80/jo11239/1619948657/73572
+#EXTINF:-1 tvg-logo="https://url.gratis/cLy90" group-title="Canais | Esportes",DAZN 3
+http://list.deeplist.nl:80/jo11239/1619948657/73573
+#EXTINF:-1 tvg-logo="https://url.gratis/cLy90" group-title="Canais | Esportes",DAZN 4
+http://list.deeplist.nl:80/jo11239/1619948657/73574
+#EXTINF:-1 tvg-logo="https://url.gratis/hZ6b5" group-title="Esportes",ESPN 1 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52657
+#EXTINF:-1 tvg-logo="https://url.gratis/hZ6b5" group-title="Esportes",ESPN 1 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1129
+#EXTINF:-1 tvg-logo="https://url.gratis/hZ6b5" group-title="Esportes",ESPN 1 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/38387
+#EXTINF:-1 tvg-logo="https://url.gratis/qSGym" group-title="Esportes",ESPN 2 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/68302
+#EXTINF:-1 tvg-logo="https://url.gratis/qSGym" group-title="Esportes",ESPN 2 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/2394
+#EXTINF:-1 tvg-logo="https://url.gratis/qSGym" group-title="Esportes",ESPN 2 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/38416
+#EXTINF:-1 tvg-logo="https://url.gratis/F0XI5" group-title="Esportes",ESPN BRASIL [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/58692
+#EXTINF:-1 tvg-logo="https://url.gratis/F0XI5" group-title="Esportes",ESPN BRASIL [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/72988
+#EXTINF:-1 tvg-logo="https://url.gratis/F0XI5" group-title="Esportes",ESPN BRASIL [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/38415
+#EXTINF:-1 tvg-logo="https://url.gratis/M7qen" group-title="Esportes",ESPN EXTRA [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52614
+#EXTINF:-1 tvg-logo="https://url.gratis/M7qen" group-title="Esportes",ESPN EXTRA [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/20813
+#EXTINF:-1 tvg-logo="https://url.gratis/M7qen" group-title="Esportes",ESPN EXTRA [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/38417
+#EXTINF:-1 tvg-logo="https://url.gratis/tPQrO" group-title="Esportes",FLA TV [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/68329
+#EXTINF:-1 tvg-logo="https://url.gratis/tPQrO" group-title="Esportes",FLA TV [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/68194
+#EXTINF:-1 tvg-logo="https://url.gratis/VRJ2u" group-title="Esportes",FOX SPORTS 1 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52660
+#EXTINF:-1 tvg-logo="https://url.gratis/VRJ2u" group-title="Esportes",FOX SPORTS 1 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/50188
+#EXTINF:-1 tvg-logo="https://url.gratis/VRJ2u" group-title="Esportes",FOX SPORTS 1 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/2391
+#EXTINF:-1 tvg-logo="https://url.gratis/n0uYr" group-title="Esportes",FOX SPORTS 2 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52621
+#EXTINF:-1 tvg-logo="https://url.gratis/n0uYr" group-title="Esportes",FOX SPORTS 2 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1031
+#EXTINF:-1 tvg-logo="https://url.gratis/n0uYr" group-title="Esportes",FOX SPORTS 2 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/1717
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere Clubes [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/58704
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere Clubes [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1714
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere Clubes [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/25246
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 2 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/58703
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 2 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1213
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 2 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/25254
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 3 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52603
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 3 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1214
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 3 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/25238
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 4 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52635
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 4 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1215
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 4 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/25250
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 5 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/52636
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 5 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1216
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 5 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/25242
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 6 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/16211
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 6 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/25757
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 7 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/16213
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 7 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/30379
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 8 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/38359
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 8 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/38358
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 9 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/41353
+#EXTINF:-1 tvg-logo="https://url.gratis/sas1T" group-title="Esportes",Premiere 9 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/41351
+#EXTINF:-1 tvg-logo="https://url.gratis/1c8JB" group-title="Esportes",SPORTV 1 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/58708
+#EXTINF:-1 tvg-logo="https://url.gratis/1c8JB" group-title="Esportes",SPORTV 1 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/1203
+#EXTINF:-1 tvg-logo="https://url.gratis/1c8JB" group-title="Esportes",SPORTV 1 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/47527
+#EXTINF:-1 tvg-logo="https://url.gratis/9ceh0" group-title="Esportes",SPORTV 2 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/58709
+#EXTINF:-1 tvg-logo="https://url.gratis/9ceh0" group-title="Esportes",SPORTV 2 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/2401
+#EXTINF:-1 tvg-logo="https://url.gratis/9ceh0" group-title="Esportes",SPORTV 2 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/22450
+#EXTINF:-1 tvg-logo="https://url.gratis/fqiH7" group-title="Esportes",SPORTV 3 [FHD]
+http://list.deeplist.nl:80/jo11239/1619948657/58710
+#EXTINF:-1 tvg-logo="https://url.gratis/fqiH7" group-title="Esportes",SPORTV 3 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/2402
+#EXTINF:-1 tvg-logo="https://url.gratis/fqiH7" group-title="Esportes",SPORTV 3 [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/22454
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS
+http://list.deeplist.nl:80/jo11239/1619948657/62005
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 2
+http://list.deeplist.nl:80/jo11239/1619948657/73152
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 2 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/73153
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 3
+http://list.deeplist.nl:80/jo11239/1619948657/73154
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 3 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/73155
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 4
+http://list.deeplist.nl:80/jo11239/1619948657/73156
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 4 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/73157
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 5
+http://list.deeplist.nl:80/jo11239/1619948657/73158
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 5 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/73396
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 6
+http://list.deeplist.nl:80/jo11239/1619948657/73159
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 6 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/73160
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 7
+http://list.deeplist.nl:80/jo11239/1619948657/75384
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS 7 [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/75385
+#EXTINF:-1 tvg-logo="https://url.gratis/dgnK3z" group-title="Esportes",TNT SPORTS [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/73393
+#EXTINF:-1 tvg-logo="https://url.gratis/YZlBi" group-title="Esportes",VASCO TV [HD]
+http://list.deeplist.nl:80/jo11239/1619948657/68430
+#EXTINF:-1 tvg-logo="https://url.gratis/YZlBi" group-title="Esportes",VASCO TV [SD]
+http://list.deeplist.nl:80/jo11239/1619948657/68431
