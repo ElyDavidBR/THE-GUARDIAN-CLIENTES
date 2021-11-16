@@ -1,31 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band Bahia HD
-http://dnsl.me:80/1171658/9038987/48948
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band BSB HD
-http://dnsl.me:80/1171658/9038987/48940
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band Campinas FHD
-http://dnsl.me:80/1171658/9038987/49594
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band Campinas HD
-http://dnsl.me:80/1171658/9038987/48941
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band Curitiba HD
-http://dnsl.me:80/1171658/9038987/49590
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band RJ FHD
-http://dnsl.me:80/1171658/9038987/48939
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band RJ HD
-http://dnsl.me:80/1171658/9038987/48942
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band RS HD
-http://dnsl.me:80/1171658/9038987/48943
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band Sergipe HD
-http://dnsl.me:80/1171658/9038987/48946
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band SP FHD
-http://dnsl.me:80/1171658/9038987/62827
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band SP HD
-http://dnsl.me:80/1171658/9038987/48945
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band Tv Goiânia FHD [H265]
-http://dnsl.me:80/1171658/9038987/63970
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band TV Goiânia HD
-http://dnsl.me:80/1171658/9038987/48938
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Band TV Taroba HD
-http://dnsl.me:80/1171658/9038987/48947
-#EXTINF:-1 tvg-logo="" group-title="Canais | Abertos",Bandeirantes SD
-http://dnsl.me:80/1171658/9038987/49375
+#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Sergipe FHD
+http://pfsv.io:80/Owdwja/oIYM63/359
+#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Sergipe HD
+http://pfsv.io:80/Owdwja/oIYM63/402
+#EXTINF:-1 tvg-logo="http://p6.vc/C" group-title=" Canais | Globo",Globo Tv Sergipe SD
+http://pfsv.io:80/Owdwja/oIYM63/439
